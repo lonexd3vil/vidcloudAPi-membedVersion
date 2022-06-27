@@ -1,6 +1,6 @@
-#A membed.net site scraper
+# A membed.net site scraper
 Coded completely in Python
-#Python Dependencies
+# Python Dependencies
 * json
 * os
 * platform
@@ -8,9 +8,9 @@ Coded completely in Python
 * BeautifulSoup 4
 * jmespath
 
-#Usage
+# Usage
 Just run the main.py and it should handle all the reqs install stuff and for whatever reason if the script is unable to fetch the missing modules by itself:
 pip install -r req.txt
 
-#Dev
+# Dev
 Telegram: @unravler
