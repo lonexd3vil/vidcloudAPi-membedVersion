@@ -1,0 +1,10 @@
+python-Levenshtein-wheels
+python-Levenshtein
+thefuzz
+httpx
+bs4
+jmespath
+python-vlc
+tqdm
+webdriver-manager
+selenium
